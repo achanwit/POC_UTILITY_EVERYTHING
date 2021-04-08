@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0"
+	srcLang="EN" trgLang="DE">
+	<documentfile original="samplepptx.pptx" tool="Omniscien Technologies">
+		<file id="ppt/slides/slide1.xml">
+			<unit id="SLIDE1-tu1" xml:space="preserve">
+				<segment>
+					<source xml:lang="EN">Sample PowerPoint File</source>
+				</segment>
+			</unit>
+			<unit id="SLIDE1-tu2" xml:space="preserve">
+				<segment>
+					<source xml:lang="EN">St.<x id="1" /> Cloud Technical College</source>
+				</segment>
+			</unit>
+		</file>
+		<file id="ppt/slides/slide2.xml">
+			<unit id="SLIDE2-tu1" xml:space="preserve">
+				<segment>
+					<source xml:lang="EN">This is a<x id="1" /> Sample Slide</source>
+				</segment>
+			</unit>
+			<unit id="SLIDE2-tu2" xml:space="preserve">
+				<segment>
+					<source xml:lang="EN">Here is<x id="1" /> an outline of bulleted points</source>
+				</segment>
+			</unit>
+			<unit id="SLIDE2-tu3" xml:space="preserve">
+				<segment>
+					<source xml:lang="EN">You can print out PPT files as handouts using the <x
+				id="SPC0" encrypt="U11U11" />PRINT &gt; <x id="SPC1" encrypt="U11" />  PRINT WHAT &gt; HANDOUTS<x
+				id="1" /> option</source>
+				</segment>
+			</unit>
+		</file>
+	</documentfile>
+</xliff>

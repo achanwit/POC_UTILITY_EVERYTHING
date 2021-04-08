@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<documentfile original="samplepptx.pptx"
+		tool="Omniscien Technologies" source-language="EN"
+		target-language="DE" datatype="x-unknown">
+		<file original="ppt/slides/slide1.xml" source-language="EN"
+			target-language="DE" datatype="x-undefined">
+			<body>
+				<trans-unit id="SLIDE1-tu1" xml:space="preserve">
+					<source xml:lang="EN">Sampl... text has been truncated due to evaluation version limitation.</source>
+				</trans-unit>
+				<trans-unit id="SLIDE1-tu2" xml:space="preserve">
+					<source xml:lang="EN">St.<x id="1" /> Clou... text has been truncated due to evaluation version limitation.</source>
+				</trans-unit>
+			</body>
+		</file>
+		<file original="ppt/slides/slide2.xml" source-language="EN"
+			target-language="DE" datatype="x-undefined">
+			<body>
+				<trans-unit id="SLIDE2-tu1" xml:space="preserve">
+					<source xml:lang="EN">This ... text has been truncated due to evaluation version limitation.<x
+					id="1" /> Samp... text has been truncated due to evaluation version limitation.</source>
+				</trans-unit>
+				<trans-unit id="SLIDE2-tu2" xml:space="preserve">
+				    <source xml:lang="EN">Here ... text has been truncated due to evaluation version limitation.<x
+					id="1" /> an o... text has been truncated due to evaluation version limitation.</source>
+				</trans-unit>
+				<trans-unit id="SLIDE2-tu3" xml:space="preserve">
+				   <source xml:lang="EN">You c... text has been truncated due to evaluation version limitation.<x
+					id="1" /> opti... text has been truncated due to evaluation version limitation.</source>
+				</trans-unit>
+			</body>
+		</file>
+	</documentfile>
+</xliff>
